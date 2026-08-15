@@ -33,5 +33,6 @@ Simply click the link below to visit the live site:
 **🔗 [Visit the Live Database Website Here](https://jafar-smartmethods.kesug.com/database/index.php)**
 
 ## 📊 Results
-<img width="1588" height="913" alt="Teachable Machine Training Process" src="database website" />
+
+<img width="1588" height="913" alt="Teachable Machine Training Process" src="websitedatabase.png" />
 The final output is a fully functional dynamic web page. Instead of static HTML, the website successfully connects to a live MySQL database, executes queries, and renders the retrieved information seamlessly to the user, demonstrating core full-stack web development capabilities.
